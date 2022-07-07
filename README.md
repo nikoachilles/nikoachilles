@@ -1,5 +1,6 @@
 👋 Hi, I’m @nikoachilles
 
+- 🌱 Consulting @Devoteam, A Cloud
 - 💖 Passionate software architect, creating with love
 - 👀 Exposing myself to good architecture design and decision trade offs
 - 🏅 AWS x 2 Certified
